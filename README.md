@@ -1,5 +1,4 @@
-![Banner]([![image](https://github.com/user-attachments/assets/5b473ff9-e7e0-4817-8576-62161eaa644c](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajl3a2E2ZTNtYzl3dmFhMzJjOW5kbnBlNTBkYnRkOHVhcG1qZjBqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif))
-)
+![Banner](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajl3a2E2ZTNtYzl3dmFhMzJjOW5kbnBlNTBkYnRkOHVhcG1qZjBqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 # 👋 Hello, I'm Utkarsh Agarwal!
 

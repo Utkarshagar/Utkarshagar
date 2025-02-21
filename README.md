@@ -1,56 +1,70 @@
-# 👋 Hi, I'm Utkarsh Agarwal
+![Banner](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 
-📍 **Agra, Uttar Pradesh**  
-📞 **+91 8384874401**  
-📧 **utkarshagarwalcs22@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/utkarsh-agarwal-583264280) | [GitHub](https://github.com/Utkarshagar)
+# 👋 Hello, I'm Utkarsh Agarwal!
 
-## 🏫 Education
-**GLA University**  
-🎓 Bachelor of Technology in Computer Science (Aug 2022 – Apr 2026)  
-📊 **CGPA:** 8.41
+💻 **Full Stack Developer** | 🔍 **Problem-Solving Enthusiast** | 📚 **Lifelong Learner**
 
-## 💻 Technical Skills
-- **Languages:** Java, Python, C, SQL (MySQL), JavaScript, HTML/CSS, Tailwind CSS
-- **Frameworks:** React, Node.js
-- **Developer Tools:** Git, VS Code, Visual Studio, IntelliJ, Eclipse
-- **Databases:** SQL/NoSQL, MongoDB Atlas
-
-## 🚀 Soft Skills
-- Problem-Solving
-- Collaboration & Teamwork
-- Communication Skills
-- Adaptability & Quick Learning
-
-## 💼 Experience
-### **Full Stack Developer Intern (Remote) – Xcel IT Solution** *(Dec 2024 – Present)*  
-- Developed and deployed a web application, now live on the company’s website.
-- Used **React.js, Tailwind CSS, and MongoDB** to build a scalable and responsive platform.
-
-### **Job-Oriented Value-Added Course – GLA University** *(June 2024 – July 2024)*  
-- Completed an intensive training program in **front-end web development**.
-- Gained proficiency in **HTML, CSS, and JavaScript fundamentals**.
-
-## 🔥 Projects
-### **XCEL IT Solutions Website** *(Dec 2024 – Present)*
-- Developed a responsive website for **XCEL IT Solutions** to showcase IT services and client projects.
-- Built a dynamic frontend using **React.js** for an interactive user experience.
-- Styled with **Tailwind CSS** and managed data using **MongoDB**.
-
-### **Health Care Management System** *(Oct 2024 – Dec 2024)*
-- Designed a **Health Care Management System** for patient records, doctor scheduling, and appointment booking.
-- Created a **full-stack** solution with **React.js, Tailwind CSS, Node.js, Express.js, and MongoDB**.
-- Automated scheduling and record management for efficiency and accessibility.
-
-### **Paste App** *(June 2024 – July 2024)*
-- Built a **Paste App** for storing, sharing, and managing text/code snippets efficiently.
-- Implemented a smooth user experience using **HTML, CSS, and JavaScript**.
-- Simplified snippet management, making it accessible for developers, writers, and general users.
-
-## 🏆 Achievements & Certifications
-- Solved **600+** problems on **Leetcode, CodeChef, and HackerRank**.
-- Achieved certifications in **CSS3 and JavaScript** from **Infosys Springboard**.
-- Certified in **Problem-Solving** from **HackerRank**.
+Welcome to my GitHub! I'm dedicated to crafting scalable applications, tackling complex coding challenges, and constantly expanding my tech expertise.
 
 ---
-💡 **Let's connect and collaborate on exciting projects!** 🚀
+
+## 👨‍💻 About Me
+- 🎯 Currently working on **XCEL IT Solutions Website**, improving its digital reach.
+- 💻 Full Stack Developer Intern at **Xcel IT Solution**.
+- 📖 Exploring **Scrum methodologies** and **Agile development** to enhance project efficiency.
+- 🎓 Pursuing **B.Tech in Computer Science Engineering** at **GLA University, Mathura**.
+- ⚡ Passionate about **React.js, Node.js, and MongoDB** for building dynamic applications.
+
+---
+
+## 🚀 Technical Skills
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## 💼 Featured Projects
+### 🌐 [XCEL IT Solutions Website](#)
+Developed a responsive website for showcasing IT services and projects:
+- **Tech Stack:** React.js, Tailwind CSS, Node.js, MongoDB
+- **Features:** Interactive UI, Service Listings, Contact Forms
+
+### 🏥 [Health Care Management System](#)
+A full-stack system for managing patient records and doctor scheduling:
+- **Technology:** React.js, Node.js, Express.js, MongoDB
+- **Functionality:** Secure data storage, Appointment Booking, Automated Scheduling
+
+### 📄 [Paste App](#)
+A user-friendly platform for storing and sharing text/code snippets:
+- **Built With:** HTML, CSS, JavaScript
+- **Use Cases:** Developers, Writers, and Content Creators
+
+---
+
+## 🏆 Achievements & Certifications
+- Solved **600+** problems across **Leetcode, CodeChef, and HackerRank**.
+- Certified in **CSS3 and JavaScript** via **Infosys Springboard**.
+- Earned **Problem-Solving Certification** from **HackerRank**.
+
+---
+
+## 📫 Let's Connect!
+📩 **Email:** utkarshagarwalcs22@gmail.com  
+🔗 **LinkedIn:** [Utkarsh Agarwal](https://www.linkedin.com/in/utkarsh-agarwal-583264280)  
+🐙 **GitHub:** [Utkarsh Agar](https://github.com/Utkarshagar)  
+
+---
+
+> *"Strive not to be a success, but rather to be of value."* – Albert Einstein

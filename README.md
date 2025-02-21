@@ -1,4 +1,5 @@
-![Banner](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
+![Banner](![image](https://github.com/user-attachments/assets/5b473ff9-e7e0-4817-8576-62161eaa644c)
+)
 
 # 👋 Hello, I'm Utkarsh Agarwal!
 

@@ -1,4 +1,4 @@
-<img src="pic1.gif" style="width: 100vw; height: 60vh; display: block;" alt="Banner">
+<img src="pic1.gif" style="width: 100vw; height: 80vh; display: block;" alt="Banner">
 
 
 

@@ -1,4 +1,4 @@
-<img src="pic1.gif" width="800" height="800" alt="Banner">
+<img src="pic1.gif" width="800" height=auto alt="Banner">
 
 
 # 👋 Hello, I'm Utkarsh Agarwal!

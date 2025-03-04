@@ -40,7 +40,7 @@ Welcome to my GitHub! I'm dedicated to crafting scalable applications, tackling 
 ---
 
 ## 💼 Featured Projects
-### 🌐 [XCEL IT Solutions Website](#)
+### 🌐 [XCEL IT Solutions Website](https://xcelitsol.com)
 Developed a responsive website for showcasing IT services and projects:
 - **Tech Stack:** React.js, Tailwind CSS, Node.js, MongoDB
 - **Features:** Interactive UI, Service Listings, Contact Forms
